@@ -1,0 +1,8 @@
+*
+!.gitignore
+!country/
+!country/*.txt
+!working.txt
+!top.txt
+!working_all.txt
+!country_matched.txt
