@@ -1,1 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWw@188.208.110.58:8444#🇦🇪
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&security=reality&sid=e361ba0c532788b2&sni=a2vonderenkerensheide.nl&type=tcp#🇦🇪281Mb
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&security=reality&sid=e361ba0c532788b2&sni=a2vonderenkerensheide.nl&type=tcp#🇦🇪65Mb
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&security=reality&sid=e361ba0c532788b2&sni=a2vonderenkerensheide.nl&type=tcp#🇦🇪283Mb
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?flow=xtls-rprx-vision&fp=qq&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&security=reality&sid=e361ba0c532788b2&sni=a2vonderenkerensheide.nl&type=tcp#🇦🇪374Mb
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?flow=xtls-rprx-vision&fp=safari&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&security=reality&sid=e361ba0c532788b2&sni=a2vonderenkerensheide.nl&type=tcp#🌐513Mb

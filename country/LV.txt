@@ -1,0 +1,3 @@
+vless://00f53158-c278-4d64-ae98-a60c5fe09ffa@107.189.25.18:443?flow=xtls-rprx-vision&fp=chrome&pbk=9dw9Bova6GFJHi8taK2JK3EnSC8MiAgYh9oY4Dog73w&security=reality&sid=bb54c0d4985504cd&sni=cdn.dodostatic.net&type=tcp#🇱🇻448Mb
+vless://00f53158-c278-4d64-ae98-a60c5fe09ffa@107.189.25.18:443?flow=xtls-rprx-vision&fp=edge&pbk=9dw9Bova6GFJHi8taK2JK3EnSC8MiAgYh9oY4Dog73w&security=reality&sid=bb54c0d4985504cd&sni=cdn.dodostatic.net&type=tcp#🇱🇻458Mb
+vless://00f53158-c278-4d64-ae98-a60c5fe09ffa@107.189.25.18:443?flow=xtls-rprx-vision&fp=ios&pbk=9dw9Bova6GFJHi8taK2JK3EnSC8MiAgYh9oY4Dog73w&security=reality&sid=bb54c0d4985504cd&sni=cdn.dodostatic.net&type=tcp#🌐742Mb

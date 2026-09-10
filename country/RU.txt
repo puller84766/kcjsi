@@ -1,2 +1,1 @@
-vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@103.91.147.17:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🌐345Mb
-vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@193.233.255.50:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇷🇺333Mb
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@186.246.8.229:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=a8huhMB5qb3Q0zYwG1QzPjSDTrXufkZMlADT-_EMPhc&security=reality&sni=io.ozone.ru&type=tcp#🇷🇺327Mb
