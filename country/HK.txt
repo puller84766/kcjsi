@@ -1,1 +1,1 @@
-vless://d742752c-4231-4695-801e-f06d77f0f277@212.192.13.233:443?flow=xtls-rprx-vision&fp=chrome&pbk=O8Av8GXWVqj7FOxUyStmrTLWv5EtvQ1ZnMOVVLb1V3s&security=reality&sid=1bc2c1ef1c&sni=www.cathaypacific.com&type=tcp#🌐115Mb
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.86:20111#🇭🇰

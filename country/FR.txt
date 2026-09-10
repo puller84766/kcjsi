@@ -1,4 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#🇫🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakF4Wg@83.171.225.55:1443#🇫🇷
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.69.42:22222?security=none&telegram=%40HoosheMasnui%2C%40HoosheMasnui%2C%40HoosheMasnui%2C%40HoosheMasnui%2C%40HoosheMasnui&type=tcp#🇫🇷80Mb
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22223?security=none&type=tcp#🇫🇷65Mb
