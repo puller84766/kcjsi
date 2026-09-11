@@ -4,6 +4,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#🇯🇵
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?fp=firefox&headertype=none&host=freshjuniper.download&path=%2F&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=localhost&type=tcp#🌐196Mb
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=localhost&type=tcp#🇯🇵133Mb
-vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?flow=xtls-rprx-vision&fp=chrome&packetencoding=xudp&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&security=reality&sid=091e1c5db8451757&sni=www.cloudflare.com&type=tcp#🇯🇵73Mb
