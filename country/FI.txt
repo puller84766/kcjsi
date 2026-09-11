@@ -1,1 +1,1 @@
-vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?flow=xtls-rprx-vision&fp=firefox&packetencoding=none&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=tcp#🌐737Mb
+vless://0e6de971-69e8-4536-b06d-8b6eae57021b@37.143.129.244:443?flow=xtls-rprx-vision&fp=chrome&packetencoding=xudp&pbk=5HArul2NDXfFUxijHj1xiPCfH-77zuuRxylT1vWIvUY&security=reality&sid=48fd192dc4e46bc0&sni=gateway.icloud.com&type=tcp#🌐546Mb
