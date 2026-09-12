@@ -6,9 +6,3 @@ ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:80#🇬🇧
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧
 ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:443#🇬🇧
 ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:80#🇬🇧
-vless://02722550-1915-4629-a653-cbe95e594f70@50.7.193.138:443?flow=xtls-rprx-vision&fp=firefox&packetencoding=xudp&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&security=reality&sid=535a3304&sni=apiv12nd.goonars.com&type=tcp#🌐475Mb
-vless://32894546-c0dd-4443-9ff1-0ba97475f712@5.254.4.5:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=7e77e7e2cf2b7a79&sni=cdn4-81.taobao.com&type=tcp#🇬🇧90Mb
-vless://32894546-c0dd-4443-9ff1-0ba97475f712@5.254.4.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=7e77e7e2cf2b7a79&sni=cdn4-81.taobao.com&type=tcp#🇬🇧61Mb
-vless://32894546-c0dd-4443-9ff1-0ba97475f712@5.254.4.5:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn4-81.taobao.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
-vless://32894546-c0dd-4443-9ff1-0ba97475f712@5.254.4.5:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn4-81.taobao.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
-vless://32894546-c0dd-4443-9ff1-0ba97475f712@5.254.4.5:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn4-81.taobao.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
