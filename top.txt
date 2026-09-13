@@ -1,4 +1,4 @@
-vless://624208cf-54e0-4341-823b-1bee6595fce9@45.135.128.5:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&security=reality&sni=upload.tbotapi.ru&spx=%2F&type=tcp#🌐311Mb
 vless://624208cf-54e0-4341-823b-1bee6595fce9@45.135.128.5:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&security=reality&sni=upload.tbotapi.ru&type=tcp#🌐236Mb
-vless://624208cf-54e0-4341-823b-1bee6595fce9@upload.tbotapi.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&security=reality&type=tcp#🌐284Mb
+vless://624208cf-54e0-4341-823b-1bee6595fce9@45.135.128.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&security=reality&sni=upload.tbotapi.ru&type=tcp#🌐118Mb
 vless://624208cf-54e0-4341-823b-1bee6595fce9@upload.tbotapi.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&security=reality&sni=upload.tbotapi.ru&type=tcp#🌐238Mb
+vless://624208cf-54e0-4341-823b-1bee6595fce9@upload.tbotapi.ru:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=upload.tbotapi.ru&path=%2F&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&security=reality&sni=upload.tbotapi.ru&type=tcp#🌐362Mb
