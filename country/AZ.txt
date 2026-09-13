@@ -1,4 +1,0 @@
-vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289#🇦🇿68Mb
-vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?headertype=none&host=basalam.horqen.ir&path=%2F&type=tcp#🇦🇿64Mb
-vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?headertype=none&security=none&type=tcp#🇦🇿60Mb
-vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?type=tcp#🇦🇿71Mb
