@@ -2,6 +2,8 @@
 !.gitignore
 !country/
 !country/*.txt
+!vless/
+!vless/*.txt
 !working.txt
 !top.txt
 !working_all.txt

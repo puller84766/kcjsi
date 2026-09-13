@@ -9,6 +9,7 @@ vless://403c3476-202d-4471-b615-40c8a2b503be@151.242.169.119:443?flow=xtls-rprx-
 vless://5acf0180-1ff9-4cfc-9970-66d0aa7ab04e@151.242.169.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp#🇳🇴254Mb
 vless://7d8a8a02-7eec-498a-84a1-252a4a84a578@151.242.169.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp#🇳🇴168Mb
 vless://95900b48-01b8-44a1-a871-756ec65cb57e@151.242.169.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp#🇳🇴141Mb
+vless://95900b48-01b8-44a1-a871-756ec65cb57e@151.242.169.119:443?flow=xtls-rprx-vision&fp=ios&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp#🇳🇴105Mb
 vless://a34ecff0-a6bc-4bac-94ad-25e1f82afcbe@151.242.169.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp#🇳🇴134Mb
 vless://d2a3fdbd-386c-485c-a6d4-74dea3f970d8@151.242.169.119:443?flow=xtls-rprx-vision&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp#🇳🇴183Mb
 vless://fed72d13-0c07-4331-9458-f6fbfffdf09f@151.242.169.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp#🇳🇴187Mb
