@@ -1,0 +1,1 @@
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=chrome&type=grpc&serviceName=TunService&sni=dl.dell.com#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Aktobe%20%7C%20%5BBL%5D

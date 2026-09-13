@@ -1,0 +1,5 @@
+vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289#🇦🇿72Mb
+vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#🇦🇿87Mb
+vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headertype=none&security=&type=tcp#🇦🇿79Mb
+vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?headertype=none&security=none&type=tcp#🇦🇿83Mb
+vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?type=tcp#🇦🇿79Mb

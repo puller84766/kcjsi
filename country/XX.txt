@@ -1,11 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001287h3p.cybervena.com:50099#🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakF4Wg@83.171.225.55:1443#🇫🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080#🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:443#🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#🇳🇱
-vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@pol2.pinkmoon.pro:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pol2.pinkmoon.pro&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&flow=xtls-rprx-vision&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
+vless://3b6a9df3-f1d1-4bc1-94a5-0d8f2d5512b1@est.2clash.ru:443?security=reality&encryption=none&pbk=5ZHp8hHES8uLMFikDLZPm7eFQCrLxJQIv_X83Pi37hs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=est.2clash.ru&sid=363234&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@13.143.139.165:443?flow=xtls-rprx-vision&fp=qq&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=pol2.pinkmoon.pro&type=tcp#🇵🇱85Mb
+vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@pol2.pinkmoon.pro:443?flow=xtls-rprx-vision&fp=safari&headertype=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=pol2.pinkmoon.pro&type=tcp#🇵🇱123Mb
+vless://88a67610-b7ae-42ba-8af0-29cfa54cef37@35.78.59.6:47571?flow=xtls-rprx-vision&fp=firefox&pbk=OyfEDzOiDM5eMvTacJ4bVhF1V0QZgvz-vP3K456l3W4&security=reality&sid=4c8b46e500b0f3ad&sni=www.amd.com&type=tcp#🌐202Mb
