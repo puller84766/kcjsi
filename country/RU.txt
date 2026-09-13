@@ -1,7 +1,1 @@
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:50111#🇷🇺
-ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@195.133.5.102:50111#🇷🇺
-ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.40.234:50111#🇷🇺
-vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.99.8:8443?encryption=none&fp=firefox&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&security=reality&serviceName=TunService&sni=www.epson.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
-vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
-vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&type=grpc&serviceName=TunService&sni=www.epson.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
-vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&type=grpc&serviceName=TunService&sni=www.epson.com&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
+vless://42d932cb-8768-41de-b57b-299252a493d2@193.160.71.249:443?flow=xtls-rprx-vision&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#🇷🇺270Mb
