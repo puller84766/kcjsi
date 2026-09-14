@@ -1,4 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZGhyQnZFWDJkSFJqYWFrV0hCWlVh@20.111.9.76:59380#🇫🇷
+vless://16b37572-636e-4f46-8d45-203fccd4bff8@31.185.105.168:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=HH_Dv5LCJ6IWzd70u52Zg1pWd54PSqxncooWfmtsTU4&security=reality&sid=26979079057b6598&sni=duckduckgo.com&type=tcp#🇫🇷115Mb
 vless://16b37572-636e-4f46-8d45-203fccd4bff8@31.185.105.168:443?flow=xtls-rprx-vision&fp=firefox&pbk=HH_Dv5LCJ6IWzd70u52Zg1pWd54PSqxncooWfmtsTU4&security=reality&sid=26979079057b6598&sni=duckduckgo.com&type=tcp#🇫🇷201Mb
-vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
-vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
