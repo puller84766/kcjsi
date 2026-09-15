@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?flow=xtls-rprx-vision&fp=chrome&packetencoding=xudp&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&security=reality&sid=221873918e0bb74d&sni=www.cloudflare.com&type=tcp#🇮🇳96Mb
