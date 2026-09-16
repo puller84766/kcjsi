@@ -1,0 +1,1 @@
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.99.9:8443?encryption=none&type=grpc&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&spx=/HesarWeb&serviceName=TunService#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
