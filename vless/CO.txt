@@ -1,2 +1,3 @@
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.226.173:62145?headertype=none&security=none&type=tcp#🇨🇴95Mb
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.226.173:62145?packetencoding=none&security=none&type=tcp#🇨🇴75Mb
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.226.173:62145?packetencoding=none&type=tcp#🇨🇴110Mb
