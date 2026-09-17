@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5cmkyYnB4V3M0RkhYUmpsaFRGbFFR@193.233.209.79:3#🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@91.107.146.97:1080#🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@94.249.187.46:1080#🇩🇪
 ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#🇩🇪
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪
@@ -14,11 +12,6 @@ vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?flow=xtls-rprx-vi
 vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?flow=xtls-rprx-vision&fp=firefox&packetencoding=xudp&pbk=yMoulSTnxnbOfAjWPfB244a29ms9HUkjgA1zLZ65Nzw&security=reality&sni=ads.x5.ru&type=tcp#🇩🇪173Mb
 vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?flow=xtls-rprx-vision&fp=ios&pbk=yMoulSTnxnbOfAjWPfB244a29ms9HUkjgA1zLZ65Nzw&security=reality&sni=ads.x5.ru&type=tcp#🌐424Mb
 vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?flow=xtls-rprx-vision&fp=qq&pbk=yMoulSTnxnbOfAjWPfB244a29ms9HUkjgA1zLZ65Nzw&security=reality&sni=ads.x5.ru&type=tcp#🇩🇪171Mb
-vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=yMoulSTnxnbOfAjWPfB244a29ms9HUkjgA1zLZ65Nzw&sni=ads.x5.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BBL%5D
-vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=yMoulSTnxnbOfAjWPfB244a29ms9HUkjgA1zLZ65Nzw&sni=ads.x5.ru&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=yMoulSTnxnbOfAjWPfB244a29ms9HUkjgA1zLZ65Nzw&sni=ads.x5.ru&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=yMoulSTnxnbOfAjWPfB244a29ms9HUkjgA1zLZ65Nzw&sni=ads.x5.ru&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.152:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=yMoulSTnxnbOfAjWPfB244a29ms9HUkjgA1zLZ65Nzw&sni=ads.x5.ru&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.192:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=bPrWBtA93mdiJHxFvwR0JqCaJ-Kv1AGs6LP6elikcXQ&security=reality&sid=ff3fc136afdec400&sni=ge1.gleb.space&type=tcp#🇩🇪225Mb
 vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.111.192:443?flow=xtls-rprx-vision&fp=firefox&pbk=bPrWBtA93mdiJHxFvwR0JqCaJ-Kv1AGs6LP6elikcXQ&security=reality&sid=ff3fc136afdec400&sni=ge1.gleb.space&type=tcp#🇩🇪163Mb
 vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.121:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#🇬🇷88Mb
