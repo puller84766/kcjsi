@@ -1,11 +1,6 @@
+ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:19290#🇫🇮
 trojan://C8WViwpSS5lwUHGl27OQRlLm2Ursg0Jj@111.88.215.247:2087?type=tcp&security=tls&fp=firefox&sni=canalnotes.site#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://0e6de971-69e8-4536-b06d-8b6eae57021b@37.143.129.244:443?flow=xtls-rprx-vision&fp=chrome&headertype=&pbk=5HArul2NDXfFUxijHj1xiPCfH-77zuuRxylT1vWIvUY&security=reality&sid=48fd192dc4e46bc0&sni=gateway.icloud.com&type=tcp#🇫🇮109Mb
 vless://0e6de971-69e8-4536-b06d-8b6eae57021b@37.143.129.244:443?flow=xtls-rprx-vision&fp=chrome&packetencoding=xudp&pbk=5HArul2NDXfFUxijHj1xiPCfH-77zuuRxylT1vWIvUY&security=reality&sid=48fd192dc4e46bc0&sni=gateway.icloud.com&type=tcp#🌐106Mb
 vless://0e6de971-69e8-4536-b06d-8b6eae57021b@37.143.129.244:443?flow=xtls-rprx-vision&fp=chrome&pbk=5HArul2NDXfFUxijHj1xiPCfH-77zuuRxylT1vWIvUY&security=reality&sid=48fd192dc4e46bc0&sni=gateway.icloud.com&type=tcp#🌐162Mb
-vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@fi.snobvpn.online:80?path=%2Fsnob-ws&security=none&type=ws#🇫🇮341Mb
-vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@188.225.56.11:443?flow=xtls-rprx-vision&fp=ios&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&security=reality&sid=a9dc98a7dc87a7dc&type=tcp#🇫🇮56Mb
-vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@188.225.56.11:443?flow=xtls-rprx-vision&fp=safari&headertype=&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&security=reality&sid=a9dc98a7dc87a7dc&type=tcp#🇫🇮58Mb
 vless://6fbcfcc7-040b-483e-96eb-2656a8e7a982@111.88.215.247:2083?flow=xtls-rprx-vision&fp=firefox&pbk=KHytPvVSryR8urmx8dj5aabYP9eSJk38fvZEoG0p0W0&security=reality&sid=bec4b6146fe1eaa9&sni=canalnotes.site&type=tcp#🇫🇮65Mb
-vless://6fbcfcc7-040b-483e-96eb-2656a8e7a982@111.88.215.247:2083?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KHytPvVSryR8urmx8dj5aabYP9eSJk38fvZEoG0p0W0&sid=bec4b6146fe1eaa9&sni=canalnotes.site#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-vless://e7aafb8e-e651-4ca0-be17-d42f9ff059f8@144.31.126.220:6543?flow=xtls-rprx-vision&fp=firefox&pbk=eBgbY5NYKPBmk6gEvU3DJrRdRoUAv965qZC6Zjy_Q3w&security=reality&sid=a4f8c92d&sni=cvedcdigital.vip&type=tcp#🇫🇮256Mb
-vless://e7aafb8e-e651-4ca0-be17-d42f9ff059f8@144.31.126.220:6543?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eBgbY5NYKPBmk6gEvU3DJrRdRoUAv965qZC6Zjy_Q3w&sid=a4f8c92d&sni=cvedcdigital.vip#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D

@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#🇺🇸
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@lt.aether-runet.top:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk&security=reality&sid=4fa44664f6a566d3&sni=lt.aether-runet.top&spx=%2F&type=tcp#🇱🇹318Mb
