@@ -1,1 +1,2 @@
 vless://2ea95ec3-6b09-470e-952a-ebb171b0d666@34.19.224.156:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4&sid=341ec000a90f1ced&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%7C%20%5BBL%5D
+vless://2ea95ec3-6b09-470e-952a-ebb171b0d666@34.19.224.156:443?fp=chrome&pbk=0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4&security=reality&sid=341ec000a90f1ced&sni=www.cloudflare.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%7C%20%5BBL%5D
