@@ -3,6 +3,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#🇯🇵
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵
+vless://0c4c6ebb-603f-4429-8682-beef6b65b80d@136.110.116.68:443?fp=chrome&pbk=Ti7zRkfweHdrQ5QHI9o_zEgHn39xRfMG2C2Gfp_AMHE&security=reality&sid=8380ad05cd21a69f&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
+vless://4a1bd3a7-22e6-4ed0-add4-7ee824d8f54a@8.209.217.129:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=Ci03uVNJ34iSg-BSeOgrhTAeWcJExB5gQNuQVRY3a2Q&sni=www.logitech.com&sid=01b4986b50245272&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
 vless://51a43b75-c84b-46eb-885e-c24e7819cd0b@34.84.179.36:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=qMPnrSiXgWvw2ETefb46OfJKnYpfX6HfyGdWpWWxtVI&sid=780152c21e234b5a&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
 vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&alpn=http%2F1.1&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%5BBL%5D
 vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&alpn=http%2F1.1&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%5BBL%5D
