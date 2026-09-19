@@ -4,7 +4,8 @@
 !country/*.txt
 !vless/
 !vless/*.txt
+!vless_top/
+!vless_top/*.txt
 !working.txt
-!top.txt
 !working_all.txt
 !country_matched.txt
