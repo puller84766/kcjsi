@@ -1,6 +1,4 @@
 vless://2f2ae482-5a3e-455e-aad6-4ac28a82f64f@de-1.ff-id.xyz:6215?encryption=none&type=grpc&security=tls&sni=cdn.astranet.ignorelist.com&serviceName=api.v1.ApiService#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://3bff8ab5-5718-49d9-bc79-6e4468cb45c3@31.76.249.38:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&sid=832d9228ddd3&sni=akde2.serveroff.net#🇺🇸68Mb
-vless://3bff8ab5-5718-49d9-bc79-6e4468cb45c3@31.76.249.63:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&sid=832d9228ddd3&sni=akde.serveroff.net#🇩🇪71Mb
 vless://3bff8ab5-5718-49d9-bc79-6e4468cb45c3@akde.serveroff.net:443?headerType=none&security=reality&sni=akde.serveroff.net&fp=firefox&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&sid=832d9228ddd3&flow=xtls-rprx-vision#🇩🇪58Mb
 vless://3bff8ab5-5718-49d9-bc79-6e4468cb45c3@akde2.serveroff.net:443?headerType=none&security=reality&sni=akde2.serveroff.net&fp=firefox&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&sid=832d9228ddd3&flow=xtls-rprx-vision#🇺🇸173Mb
 vless://5aa410f2-ec35-453f-bc2a-b1aabba2c969@gr1.serverslocal.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=2fZTX_b8h4Cdf2xJCID00BqFzsjtKAAws4Y-OZtNLnE&sid=56f57b965ff599bf&sni=gr1.serverslocal.ru#🇦🇪206Mb
