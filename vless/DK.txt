@@ -1,1 +1,1 @@
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@6705c.veloradigital.xyz:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=qlnm4eHQTTfqHf_z0o4GBQwbY0FvX9Ubfne_8KW57go&security=reality&sid=8c754df1&sni=6705c.veloradigital.xyz&type=tcp#🇩🇰87Mb
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@193.180.209.136:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%B0%20%7C%20%5BBL%5D
