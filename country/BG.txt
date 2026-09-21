@@ -1,3 +1,5 @@
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?path=%2Fvless-test&security=&encryption=none&type=ws#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.177:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@45.141.235.191:443?flow=xtls-rprx-vision&fp=firefox&pbk=mGPCrFElfsioK3y3nOyW66ahpIocDnnyzfUnoN7ULFc&security=reality&sid=c2cdd5&sni=cats-n-dogs.rumainco.cl#🇳🇱145Mb
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@cats-n-dogs.rumainco.cl:443?headerType=none&security=reality&sni=cats-n-dogs.rumainco.cl&fp=firefox&pbk=mGPCrFElfsioK3y3nOyW66ahpIocDnnyzfUnoN7ULFc&sid=c2cdd5&flow=xtls-rprx-vision#🇳🇱123Mb
 vless://e633de28-bfc0-4aca-aa67-e2e12e2c9e58@45.9.156.103:443?type=tcp&flow=xtls-rprx-vision&security=reality&sni=mzone.bg.3cloudhost.com&fp=safari&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8#🇧🇬135Mb

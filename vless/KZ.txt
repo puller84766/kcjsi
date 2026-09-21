@@ -1,1 +1,1 @@
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@kzself.yandex-api.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&sid=7f2e9c4b1a8d6e25&sni=kzself.yandex-api.com#🇰🇿73Mb
+vless://416b35f4-7cba-4023-a915-b22af73cd0c2@edge-kz1.lovely.my:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=edge-kz1.lovely.my&fp=firefox&security=reality&pbk=nNeAdcF__Tg3jBFRRPgpmKPNJGfqMGy4rG3Z3eO-T24&sid=24fc325b440818ce#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
