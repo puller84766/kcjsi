@@ -2,8 +2,6 @@ vless://a4846a6c-163f-4b12-a99f-378d814e5e09@172.239.239.53:22746?security=reali
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@45.150.110.11:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@132.243.172.183:8081?path=%2Fvless-test&security=&type=ws#🇳🇱61Mb
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@132.243.166.247:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-vless://bf8c34f4-3c93-4428-8042-8834662d75e6@5.149.248.227:443?security=reality&pbk=RmsCt_VXBwBC8WF3TqprhXMbu7xZl18dVDwq0kDfqzE&headerType=none&fp=safari&spx=%2F&flow=xtls-rprx-vision&sni=deepl.com&sid=9d3372aebdef5228#🇳🇱173Mb
-vless://00706a0e-de50-40f0-b6e0-e50b8d727d88@109.121.44.41:443?security=reality&flow=xtls-rprx-vision&sni=www.amd.com&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=2c5d0e9f#🇳🇱199Mb
 vless://11f21602-47aa-42e2-9149-69120f2e6df6@130.78.191.25:443?security=reality&sni=nl07.shifor01.life&fp=firefox&flow=xtls-rprx-vision&pbk=0FwNJ9HYJgVj5566tb0zwjGTPLb-42i-mlXnceB9-Tc&sid=3ac25eef1431b799#🇳🇱60Mb
 vless://add59713-f5c6-4442-83a3-6bc9281f5c90@ne5.rexten.cc:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=ne5.rexten.cc#🌐270Mb
 vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@cdn.snobvpn.online:80?flow=&path=%2Fsnob-ws&type=ws#🇦🇪376Mb
@@ -18,3 +16,5 @@ vless://a11d5668-63f7-4fe2-9b77-7f8336ae883d@94.237.4.82:443?mode=auto&path=%2F&
 vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@slowkd.sadiepinki.com:443?flow=xtls-rprx-vision&security=reality&sni=slowkd.sadiepinki.com&fp=firefox&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb&headerType=none#🇳🇱121Mb
 vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?security=tls&type=ws&sni=tgmansion.site&path=%2Fvless-il&host=tgmansion.site&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://8d2196c0-2ec7-4867-8d66-d5d19bf8fb23@185.170.211.194:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eZXyfQzQgQSreAbhKSorx38cgnKmGuSOiQbthBfG5k0&sid=0e903b415d812c59&sni=www.samsung.com#🇳🇱151Mb
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@109.176.202.20:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
+vless://8d2196c0-2ec7-4867-8d66-d5d19bf8fb23@nl2.bbobr.win:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&sid=fbe9c012125d90d2&sni=nl2.bbobr.win#🇳🇱109Mb
