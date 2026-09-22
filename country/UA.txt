@@ -1,1 +1,1 @@
-vless://7b07d862-b698-47c1-884b-3e7dd6c8b862@104.143.223.231:2085?type=grpc&mode=multi&serviceName=vless#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.148.137:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
