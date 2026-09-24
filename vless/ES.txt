@@ -1,1 +1,2 @@
 vless://cb15d1b0-e48b-4c4c-b98a-fa1103aa3723@87.76.179.117:7443?flow=xtls-rprx-vision&security=reality&fp=firefox&sni=www.samsung.com&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Barcelona%20%7C%20%5BBL%5D
+vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:45286?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
