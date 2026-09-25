@@ -5,8 +5,6 @@ vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@surstreming.vvzzkontaktezzvv.garden
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.195.98:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.196.152:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.196.152:8081?type=ws&path=%2Fvless-test#🇸🇪76Mb
-vless://d929e993-8053-488a-8a22-0ae09f706a2e@89.22.232.117:443?encryption=none&fp=firefox&pbk=3Qh9roHIRJtLEM-gV_hudQrY6wPK_Dc3ePVtWLGqYho&security=reality&sid=ef7db38f625526f5&sni=www.goo.gl&type=tcp#🇸🇪268Mb
-vless://d929e993-8053-488a-8a22-0ae09f706a2e@89.22.232.117:443?type=tcp&encryption=none&flow=&sni=www.goo.gl&fp=firefox&security=reality&pbk=3Qh9roHIRJtLEM-gV_hudQrY6wPK_Dc3ePVtWLGqYho&sid=ef7db38f625526f5#🇸🇪421Mb
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&sni=swebz.loozerp.wiki#🇸🇪124Mb
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&sni=swebz.loozerp.wiki#🌐336Mb
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&sni=swebz.loozerp.wiki#🇸🇪74Mb
