@@ -1,1 +1,1 @@
-vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@mg-42.whit3.net:443?security=reality&encryption=none&pbk=nNg-TAbG5N2ZU2q2esoguL7gOIgcGu4iJ4BASrP5BFI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mg-42.whit3.net&sid=08e09895b90eea7a#🇪🇪249Mb
+vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@mg-42.whit3.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=nNg-TAbG5N2ZU2q2esoguL7gOIgcGu4iJ4BASrP5BFI&sid=08e09895b90eea7a&sni=mg-42.whit3.net#🇪🇪78Mb
