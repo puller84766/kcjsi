@@ -1,6 +1,5 @@
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B9%F0%9F%87%B7-Istanbul-789ms-Hostkey%20B.V.
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%8F%81-599ms-Unknown
 vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?flow=xtls-rprx-vision&fp=firefox&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&security=reality&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&type=tcp#🇹🇷181Mb
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#🇹🇷72Mb
-vless://e8267fb2-155e-4e5b-afc8-04558de60b01@93.190.8.20:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Mahmutbey%20%7C%20%5BBL%5D
-vless://e8267fb2-155e-4e5b-afc8-04558de60b01@93.190.9.125:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Mahmutbey%20%7C%20%5BBL%5D
-vless://e8267fb2-155e-4e5b-afc8-04558de60b01@93.190.9.172:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Mahmutbey%20%7C%20%5BBL%5D
+vless://33e40dec-442b-46b2-b9b3-be1848ce7df8@206.1.98.86:18443?type=grpc&encryption=none&serviceName=@tunelm2mvpn@tunelm2mvpn@tunelm2mvpn&authority=&security=reality&pbk=bYVNm1Huc5MMhVUBDAO5O7O7mjZXjxESWUQzVPIoqjM&fp=chrome&sni=www.bing.com&sid=ca&spx=/#tunelm2mvpn.-@tunelm2mvpn
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@45.92.219.170:8080?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#🚀
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B9%F0%9F%87%B7-Istanbul-906ms-Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
