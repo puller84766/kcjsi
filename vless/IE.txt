@@ -1,1 +1,4 @@
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@82c0f.tornadonext.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=R_ax16JLUFGtv5quE08v6l35O7B_-3j5C31ejUBElRU&security=reality&sid=6bcd199b&sni=82c0f.tornadonext.com&type=tcp#🇮🇪241Mb
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp&fp=firefox#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%2C%20Saggart%20%7C%20%5BBL%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp&fp=qq#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%2C%20Saggart%20%7C%20%5BBL%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=ireland-new-ded1.failspace.top&path=%2F#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=ireland-new-ded1.failspace.top#🌐83Mb

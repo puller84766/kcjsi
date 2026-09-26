@@ -1,2 +1,6 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.106.194:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=at-at-at.failspace.top&type=tcp&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%28Floridsdorf%29%20%7C%20%5BBL%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.106.194:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=at-at-at.failspace.top&type=tcp&fp=qq#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%28Floridsdorf%29%20%7C%20%5BBL%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-at-at.failspace.top:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.4MB/s
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-at-at.failspace.top:443?security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=at-at-at.failspace.top&path=%2F#🇺🇸192Mb
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-at-at.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=at-at-at.failspace.top&host=at-at-at.failspace.top#🌐156Mb
