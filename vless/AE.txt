@@ -1,1 +1,1 @@
-vless://de71c0cd-8f0d-462d-80a7-d567b642cdb2@176.118.166.100:58888?encryption=none&sid=6ba85179e30d4fc2&type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=max.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA#🇦🇪280Mb
+vless://02bd8b5a-170b-4a79-8e68-9cec710272c7@est1.gursub.com:443?type=tcp&security=reality&sni=est1.gursub.com&pbk=6S5TksQPwvFJqlj5JJGnuUFF06crL-xFS15111ml9kY&sid=529a266bd38ca939&fp=chrome&encryption=none&flow=xtls-rprx-vision#🌐73Mb
