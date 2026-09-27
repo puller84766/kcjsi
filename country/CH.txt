@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#برای
-vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@176.65.144.24:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=PIidHZ5GTRywDVjazexbmaRDlnqY277LTZKUPzjM0Xg&sid=ce70facae52ed769&sni=dump.whit3.net#🇨🇭62Mb
-vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@dump.whit3.net:443?security=reality&encryption=none&pbk=PIidHZ5GTRywDVjazexbmaRDlnqY277LTZKUPzjM0Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dump.whit3.net&sid=ce70facae52ed769#🇨🇭167Mb
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭
