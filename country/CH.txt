@@ -1,2 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#برای
+vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@45.90.57.251:443?encryption=none&fp=firefox&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&security=reality&serviceName=grpc-tunnel_nl&sid=fd4f9db207ff64db&sni=dl.google.com&type=grpc#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Aire-la-Ville%20%7C%20%5BBL%5D
+vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@45.90.57.251:443?security=reality&encryption=none&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=chrome&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Aire-la-Ville%20%7C%20%5BBL%5D
+vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@dump.whit3.net:443?security=reality&encryption=none&pbk=PIidHZ5GTRywDVjazexbmaRDlnqY277LTZKUPzjM0Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dump.whit3.net&sid=ce70facae52ed769#🇨🇭140Mb
+vless://d3aeadf0-94bd-46bd-88f5-ed920a3449fd@sh.netgridflow.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c6ff7424cb12c5ed&sni=sh.netgridflow.com#🇮🇱108Mb
