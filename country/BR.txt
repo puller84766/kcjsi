@@ -1,2 +1,1 @@
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.241:8443?mode=auto&path=/&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&fp=chrome&type=xhttp&sni=wikihow.com#🇬🇧@FreakConfig
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@sanpa-meow.nethcloud.top:8443?encryption=none&security=reality&sni=wikihow.com&fp=random&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&type=xhttp&path=%2F&host=wikihow.com&mode=auto#🇧🇷76Mb
+vless://b6b222ad-5702-4416-90e7-6b1aa71d65bf@89.169.21.180:2087?security=reality&encryption=none&pbk=_aK_w8AC7ZyTe_2xLOF1L46W72EpZQPTv_ueWXdBmRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=player.videocactus.xyz&sid=643b09236d19de90#@tootffarangi🍓-119🇷🇺

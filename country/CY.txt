@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXeFlwT0sxaVBTSnlTYlZOTU1KRHR3@139.100.236.74:3#🇮🇱
-vless://0a975d79-6930-4861-a105-dc50793456de@2.56.123.131:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=contact.yump.online&fp=chrome&pbk=wDAQ_iQ_vv6lQiB9nCxIJviEhARWOQOPyhzos8EJW3o&sid=9da47879658f9f25&allowInsecure=1#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
-vless://0a975d79-6930-4861-a105-dc50793456de@2.56.123.131:443?security=reality&encryption=none&pbk=wDAQ_iQ_vv6lQiB9nCxIJviEhARWOQOPyhzos8EJW3o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=contact.yump.online&sid=9da47879658f9f25#@filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5cUdjTmlaajR1Q2k3REdTanhsZzVR@45.158.199.33:4#🇮🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5cUdjTmlaajR1Q2k3REdTanhsZzVR@80.242.57.97:3#🇮🇱
