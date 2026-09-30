@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%3E%3E%40outline_vpn%3A%3ACA
+vless://Fluffy_VPN-8d7GxL0p@195.209.219.176:443?security=reality&encryption=none&pbk=AzPJmJdRCwGXucsY1R-YPZk5xdxRo5IZPAWsA3JWOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
