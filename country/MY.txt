@@ -1,2 +1,1 @@
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?alpn=h2%2Chttp%2F1.1&host=platform128.halalkhor.info&path=%2Fplatform128&security=none&sni=platform128.halalkhor.info&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform128&host=platform128.halalkhor.info&packetEncoding=xudp&sni=platform128.halalkhor.info#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@130.94.69.15:7001#🇲🇾
