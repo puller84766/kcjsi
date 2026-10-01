@@ -1,1 +1,1 @@
-vless://Fluffy_VPN-8d7GxL0p@195.209.219.176:443?security=reality&encryption=none&pbk=AzPJmJdRCwGXucsY1R-YPZk5xdxRo5IZPAWsA3JWOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@78.153.149.138:443?type=tcp&headerType=none&security=reality&encryption=none&sni=duckduckgo.com&pbk=IxFbqmfuwejYSKYu69qBnzG9yWSuf7UjHujXWOO_w34&sid=9137d914cd770b54&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
