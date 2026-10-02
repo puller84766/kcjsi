@@ -1,2 +1,1 @@
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@131.255.6.88:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=random&security=tls#%F0%9F%87%A8%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-CL-1...%20%238
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@64.176.15.110:2053?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=random&security=tls#%F0%9F%87%A8%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-CL-1...%20%236
+vless://ad5325f8-f0b3-41c4-a561-113529b60e70@34.176.137.90:443?fp=chrome&pbk=HnHVuSObMrldWGzq1-Eb93fwgu6QQRp6H0_8LX3ikDc&security=reality&sid=2c2d919f5183d0b7&sni=www.cloudflare.com#🇨🇱76Mb

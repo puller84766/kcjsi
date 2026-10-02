@@ -1,1 +1,1 @@
-vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?security=none&type=ws&path=%2F&host=free.sahanwickramasinghe.me#%F0%9F%87%B1%F0%9F%87%B0%20Sri%20Lanka%2C%20Battaramulla%20%7C%20%5BBL%5D
+vless://92d67828-4c56-4795-af5a-f387651380dc@trackydev.site:443?security=tls&encryption=none&insecure=0&host=trackydev.site&fp=chrome&type=ws&allowInsecure=0&sni=trackydev.site#42
