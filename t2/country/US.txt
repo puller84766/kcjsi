@@ -1,0 +1,2 @@
+vless://6a3c68b1-d4b8-0004-975f-a01da4184225@lk-1.yes-on.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=EroArXWVxIMXclqgp4WNolB5vtfWSZEF1wjb_t1QrBE&sid=a150dcf9&sni=lk-1.yes-on.ru
+vless://ce0cf224-1d6e-466e-a7e3-55aead76afed@www.5199dy.com:8443?sni=aaa.abcai.online&type=ws&host=aaa.abcai.online&path=/vless-argofp=chrome&security=tls

@@ -1,0 +1,1 @@
+4.2 days | (3/0) | ping 566ms | score 821 [ping 619 aping 0 up 101 suc 100 spd 0 aspd 0 pur 0 dir 0 dsp 0] | obfs4 185.85.87.222:443 24479DC0282DECD4EE9EDD6017B25EDDD217AAF1 cert=A4npStLmm2JEMPOAvtn8U0BJ5VGdDA2S+7pd4/aIutCi/t5HaKEvEfqkpj6cvF2kKm8VGQ iat-mode=0
