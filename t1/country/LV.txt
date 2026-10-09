@@ -1,1 +1,1 @@
-vless://d91dc97c-a09b-40fa-9da0-a3d1729f7427@5.34.215.70:8443?type=grpc&security=reality&fp=firefox&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&sid=02827ef87f4a23c0&sni=estoxy.com&serviceName=grpc-y
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@lit.fytpn.com:2097?type=tcp&security=tls&sni=lit.fytpn.com&fp=chrome#🇱🇻LV-🚀@VPNine1

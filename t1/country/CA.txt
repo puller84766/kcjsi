@@ -5,9 +5,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@104.171.138.18:8447?type=grpc&security=reality&fp=firefox&pbk=spxYV3CT-gcnk7ABCozoIyrxKu8n-sl36RL6yDh-8xg&sid=feb22e978bd90e60&sni=ru7.bbobr.win&serviceName=api.v2.9d87796f29
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@ru7.bbobr.win:8447?type=grpc&security=reality&fp=firefox&pbk=spxYV3CT-gcnk7ABCozoIyrxKu8n-sl36RL6yDh-8xg&sid=feb22e978bd90e60&sni=ru7.bbobr.win&serviceName=api.v2.9d87796f29&authority=ru7.bbobr.win
@@ -15,6 +13,9 @@ vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.46.91:8080?security=none&typ
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@194.77.220.104:8080?security=none&type=raw
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.188:8080?security=none&type=raw
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=corporate.amazon.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ&sid=33c0b6e213
 vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ&security=reality&sid=33c0b6e213&sni=corporate.amazon.com&type=tcp
 vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=corporate.amazon.com&fp=chrome&pbk=QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ&sid=33c0b6e213&spx=/36afe087d75c9f6&type=tcp&headerType=none
