@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999
-ss://YWVzLTI1Ni1nY206cU12Sm1DYk1kdUtVb2VIcQ@66.245.207.70:8388#🇮🇹
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@45.155.68.166:443?security=reality&pbk=m36Bb1dQ2v4zhgPAtkJnNmFY_4K75zvBo5e1JiitciM&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=it-root.sworkingvpn.com&sid=15bcc0a77c3cacdf
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#🇮🇹
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@45.155.68.166:443?security=reality&pbk=m36Bb1dQ2v4zhgPAtkJnNmFY_4K75zvBo5e1JiitciM&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=it-root.sworkingvpn.com&sid=15bcc0a77c3cacdf#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F
