@@ -1,2 +1,1 @@
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇺🇸
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.246:8443?encryption=none&security=tls&alpn=http/1.1&sni=fdghyt.com&path=/vpn-wss/fluxor/59011/&allowInsecure=0&type=ws&host=fdghyt.com&insecure=0#🇪🇪
