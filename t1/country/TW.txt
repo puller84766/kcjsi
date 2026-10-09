@@ -1,1 +1,1 @@
-vless://08aaab35-a42d-4755-a03e-20c18cb1b3e8@45.192.201.140:443?path=%2Fe8e2cecb6188f7fb&security=tls&encryption=none&insecure=0&host=argo6.5671234.xyz&fp=firefox&type=ws&allowInsecure=0&sni=argo6.5671234.xyz
+vless://bcfbb19f-5b0e-4862-a77b-904fffd0b513@ali-hk.qrfly.top:10102?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=random&pbk=kVpVhfT5_4__Sxj4i0S2DOQKKfK549rgy2HWP9QU4iw&sid=db6c60f1&type=tcp&headerType=none

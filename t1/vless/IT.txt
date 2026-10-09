@@ -1,5 +1,1 @@
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=raw&packetEncoding=xudp&encryption=none
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&packetEncoding=xudp&sni=/&encryption=none
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@45.155.68.166:443?security=reality&pbk=m36Bb1dQ2v4zhgPAtkJnNmFY_4K75zvBo5e1JiitciM&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=it-root.sworkingvpn.com&sid=15bcc0a77c3cacdf

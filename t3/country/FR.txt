@@ -1,2 +1,0 @@
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=&encryption=none&type=ws#🇫🇷
-vless://c4394e27-baeb-422d-8905-a93f8e01126f@cdn.alihapp.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdn.alihapp.com&fp=chrome&type=xhttp&sni=cdn.alihapp.com#🇫🇷197Mb

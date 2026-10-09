@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388
 vless://15c9be2b-20f1-47b7-bf33-747ed1ff7fb7@179.255.191.86:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&sni=sweth.ali-bard.online
 vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@81.94.148.104:2096?type=grpc&security=reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&mode=gun&serviceName=vless-grpc-reality
