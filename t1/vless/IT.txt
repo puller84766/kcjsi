@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#🇮🇹
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹
 vless://3eec23c1-2a0d-4d53-afa5-62745a1f5ffe@31.76.65.216:30002?path=%2Fjournal-11ff0bb2fa767891c2fc03ebc9a59aa7&security=tls&alpn=http%2F1.1&host=olivejournal.gazette.help&fp=chrome&type=ws&sni=olivejournal.gazette.help#%F0%9F%87%B7%F0%9F%87%BA191129%20|%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET

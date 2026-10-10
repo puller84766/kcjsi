@@ -1,0 +1,1 @@
+vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.240:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=time.puffixhosting.com&pbk=NZO6V4j_bb35I-3ioL-dcbUYU07Ch3kjqV2zRgAslHs&sid=c6437386a343e91e&fp=firefox#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20VPN%20tg:VLESSFORU%20%F0%9F%87%A9%F0%9F%87%AA%20t.me%2Frjsxrd
