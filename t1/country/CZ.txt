@@ -1,1 +1,1 @@
-vless://14d14e40-16e5-4972-8e13-d87ec3a949ee@153.76.185.168:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
+vless://e937b92c-701f-420e-a621-3eb3b75de467@95.85.238.142:443?security=reality&encryption=none&pbk=WrqktJc0i6tesi_bVc6WS1mYM0yxhbriI4jrU_butSA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bobr.puffixhosting.com&sid=cd529c087b552f2f#@filembad

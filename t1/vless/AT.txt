@@ -1,1 +1,1 @@
-vless://d18c6897-2849-456a-8c46-d7ecece47c20@141.101.90.108:2053?type=ws&security=tls&fp=chrome&sni=wzs.echo.net.eu.org&host=wzs.echo.net.eu.org#0997%20|%20%E2%98%81%EF%B8%8F%20Cloudflare%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@3zot60.anusvovi.stream:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&security=reality&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com&type=tcp#[67899]
