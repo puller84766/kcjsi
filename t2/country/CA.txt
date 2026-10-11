@@ -1,0 +1,2 @@
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@104.171.138.18:8447?type=grpc&security=reality&fp=firefox&pbk=spxYV3CT-gcnk7ABCozoIyrxKu8n-sl36RL6yDh-8xg&sid=feb22e978bd90e60&sni=ru7.bbobr.win&serviceName=api.v2.9d87796f29#0197%20|%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp
