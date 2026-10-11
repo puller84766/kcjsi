@@ -1,3 +1,0 @@
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@glazatushi.yandex-api.com:443?flow=xtls-rprx-vision&security=reality&sni=glazatushi.yandex-api.com&fp=random&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=raw#@DeltaKroneckerGithub
-vless://a7a4e6f3-4e63-4cc2-ba22-4635f3ff6aca@153.76.185.164:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
-vless://a7a4e6f3-4e63-4cc2-ba22-4635f3ff6aca@153.76.185.164:3090?security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
