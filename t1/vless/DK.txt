@@ -1,1 +1,2 @@
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#117
+vless://4698388f-2a3a-48ce-a4b2-ef2d3e14b05c@dk.kosmolet.me:2053?security=tls&sni=dk.kosmolet.me&type=ws&path=%2Fhanami#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20VPN%20tg:VLESSFORU%20%F0%9F%87%B5%F0%9F%87%B1%20t.me%2Frjsxrd
