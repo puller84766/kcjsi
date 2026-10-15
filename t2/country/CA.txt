@@ -1,1 +1,2 @@
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp
+vless://b7df9363-087b-48f7-a4ca-6e988ebf7f35@can1.ragnarok-it.xyz:8449?flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=random&pbk=l_qSSfZDQDjpodjZ80CiFCyXY6xssS0IHWxu6n_HN3c&sid=dee4ffbdbe515f0d&type=raw#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Navalcarnero%20%7C%20%5BBL%5D

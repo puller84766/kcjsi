@@ -1,5 +1,4 @@
-vless://0c3ad9d5-cffd-4748-b8df-ab145288144b@fi-p1.h1cloud.net:25633?type=raw&security=reality&fp=random&pbk=YLIRYJ8UkT0nSSgxJr7YckNuXnokVyEs2G6thNyx1GE&sid=200811f031ae7463&sni=www.icloud.com#2015%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=raw#%5BOpenRay%5D%20%F0%9F%8C%90XX-2379
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp&headerType=none#Channel
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&type=tcp&headerType=none#🇫🇮
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=raw#%F0%9F%87%AB%F0%9F%87%AE%2069%20-%20FI%20-%20VLESS/REALITY/PBK/SID/VISION/UTLS%20-%20443
 vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=18e4d2d21241#@hopev2ray🩵
