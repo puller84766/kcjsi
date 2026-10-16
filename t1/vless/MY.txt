@@ -1,1 +1,0 @@
-vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@my2.oh-node.com:443?security=reality&type=raw&flow=xtls-rprx-vision&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM&sid=ed77ac35a310&sni=www.setel.com&servername=www.setel.com&spx=%2F&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-898
