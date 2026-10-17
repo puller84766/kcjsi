@@ -7,4 +7,3 @@ vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw#@DeltaKroneckerGithub
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw&flow=&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%8C%90XX-630
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw&sni=milo.rubinaz.xyz&host=milo.rubinaz.xyz&packet-encoding=xudp#0272%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
-vless://f0466557-2fd5-442e-94cb-12c6b764155e@51.79.31.36:31146?security=reality&pbk=QAoJHZT6_DZsBu-jH74uYZUTpGgxmvN2tXpRKj4CygE&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=play-fe.googleapis.com&sid=cf4e6f8338#@DeltaKroneckerGithub

@@ -1,2 +1,1 @@
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://f0466557-2fd5-442e-94cb-12c6b764155e@51.79.31.36:31146?security=reality&pbk=QAoJHZT6_DZsBu-jH74uYZUTpGgxmvN2tXpRKj4CygE&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=play-fe.googleapis.com&sid=cf4e6f8338#@DeltaKroneckerGithub
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp
