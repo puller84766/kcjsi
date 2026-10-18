@@ -1,0 +1,1 @@
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?type=ws&path=%2Fplatform109&host=[%27platform109.halalkhor.info%27]&sni=platform109.golnamakcert.top#%F0%9F%87%B5%F0%9F%87%AD%20Philippines%2C%20Manila%20%7C%20%5BBL%5D

@@ -1,2 +1,2 @@
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪
-vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?type=ws&security=none&path=/vless&sni=185.253.116.33#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Dubai%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?path=/vless&security=none&encryption=none&host=185.253.116.33&type=ws&sni=185.253.116.33#🇦🇪195586
