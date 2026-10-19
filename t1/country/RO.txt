@@ -1,11 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#🇷🇴
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052#@tootffarangi🍓
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052/?type=tcp&encryption=none&flow=#[69662]
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#[73851]
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp#🫧67@oneclickvpnkeys
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp&headerType=none#Channel
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=raw#%5BOpenRay%5D%20%F0%9F%8C%90XX-2379
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=tcp&encryption=none#🇩🇪195031
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw#0225%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw&host=edge10.cyrionflare.com#1125%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw&packetEncoding=none#0468%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu

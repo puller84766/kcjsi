@@ -1,2 +1,5 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@43.229.148.249:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B9%F0%9F%87%ADTH_12%7C583KB%2Fs%7CF003-260618
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🇹🇭
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#@Tarkshodeh
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#@Tarkshodeh
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@43.229.148.249:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&security=tls#%F0%9F%87%B9%F0%9F%87%AD%20%E6%B3%B0%E5%9B%BD%20%7C%20THA%20%231
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#@VConfing

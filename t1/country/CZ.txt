@@ -1,4 +1,3 @@
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#🇨🇿CZ-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#🇨🇿
-vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?host=node-3.wt419.site&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws&fp=chrome#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20VPN%20tg:VLESSFORU%20%F0%9F%87%BA%F0%9F%87%B8
-vless://6206cb76-491d-4237-baf1-8c29eea4eafb@cl-glb6e059ee.gcdn.co:443?alpn=http%2F1.1&fp=random&host=node-3.wt419.site&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-891
+vless://7edce9e2-3434-4596-a5cd-c8d5777484e6@72.56.241.75:5443?mode=gun&security=reality&pbk=m95xufOq7mmISN572WqkK0Bzmzb3hDfpr6WNp76xfyc&fp=firefox&type=grpc&serviceName=grpc&sni=files.nyx53.shop#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20VPN%20tg:VLESSFORU%20%F0%9F%87%B7%F0%9F%87%BA%20t.me%2Frjsxrd
