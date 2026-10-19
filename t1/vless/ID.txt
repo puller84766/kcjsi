@@ -1,2 +1,1 @@
 vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?security=reality&encryption=none&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🇮🇩
-vless://5a380395-9c91-4174-8330-475d1235ed61@202.10.40.89:8443?flow=xtls-rprx-vision&fp=firefox&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&security=reality&sid=5b4a12ef7e1694dd&sni=amproject.my.id&type=raw#%F0%9F%87%AE%F0%9F%87%A9%20%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F%203%20Rumahweb%20t.me%2Frjsxrd
