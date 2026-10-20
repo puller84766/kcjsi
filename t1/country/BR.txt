@@ -1,1 +1,2 @@
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#🇧🇷
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.64.59.9:443?security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1876

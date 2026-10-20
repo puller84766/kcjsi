@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?#Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#✰𝗝𝗼𝗶𝗻
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.84.236.69:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%BF%F0%9F%87%A6_%E5%8D%97%E9%9D%9E_193%20t.me%2Frjsxrd
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.84.244.9:443?security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=fp%3Dunsafe&sni=snip.edgeoneai.cc.cd#%F0%9F%87%BF%F0%9F%87%A6_%E5%8D%97%E9%9D%9E_412%20t.me%2Frjsxrd
