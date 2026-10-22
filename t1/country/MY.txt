@@ -1,1 +1,2 @@
 vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?security=tls&fp=chrome&sni=vpn.cintaku.qzz.io&type=ws&host=vpn.cintaku.qzz.io&path=%2Fvlessws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1721
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?security=tls&sni=vpn.cintaku.qzz.io&fp=&type=ws&path=%2Fvlessws&host=vpn.cintaku.qzz.io&packetEncoding=xudp#96.%20VLESS%20%7C%20SNI%3A%20vpn.cintaku.qzz.io%20%7C%20TG%3A%20%40wlrustg

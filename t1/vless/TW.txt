@@ -1,2 +1,1 @@
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?type=raw&security=reality&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org#1062%20|%20Taiwan%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#🇹🇼195729
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@140.115.53.51:443?security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-19
