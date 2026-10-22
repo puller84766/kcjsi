@@ -1,5 +1,2 @@
-vless://1c794e75-bcd4-4a65-9f69-ed0a10f33d60@144.31.101.196:33891?security=reality&encryption=none&pbk=HXXIkFRPeRpluXJ7SOoUGf9EOq4Lw-oJpvg1W0UPbEw&headerType=none&fp=chrome&spx=/health&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=5bd7b68ca4c04443#10214@proxy_online_net
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#@tootffarangi🍓
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20%40MrMeshkyChannel%20267467
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=raw#%5BOpenRay%5D%20%F0%9F%8C%90XX-2379
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?type=ws&security=tls&fp=firefox&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd#1776%20|%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?type=raw&host=site.teslamotor.site&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-1665
