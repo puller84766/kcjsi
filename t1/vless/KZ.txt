@@ -1,1 +1,2 @@
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#Tel-@ProxyMtAlpha🌚
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@93.183.87.107:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&sni=electric-zephyr.cdn.cachefleet.com#0663%20|%20%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu

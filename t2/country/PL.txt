@@ -1,3 +1,2 @@
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp&headerType=none#Channel
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#@tootffarangi🍓
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?type=ws&security=tls&fp=firefox&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd#1776%20|%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=raw#%5BOpenRay%5D%20%F0%9F%8C%90XX-2379
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20%40MrMeshkyChannel%20267467
