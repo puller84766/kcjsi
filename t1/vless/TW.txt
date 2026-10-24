@@ -1,2 +1,3 @@
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@140.115.53.51:443?security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-19
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@140.115.53.51:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#%E5%8F%B0%E6%B9%BE%E7%9C%81%E6%A1%83%E5%9B%AD%E5%B8%82+%E5%9B%BD%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%A6
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@85.237.207.101:443?security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-12
