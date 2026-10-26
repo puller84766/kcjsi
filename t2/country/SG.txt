@@ -1,4 +1,4 @@
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@singanew.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=Gze5BmP_4HTNuAQLz54-ecTkHkB0fElV-aGa1dPm6FQ&sni=singanew.click#0315%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg.fasti.win&fp=chrome&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#@DeltaKroneckerGithub
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#@DeltaKroneckerGithub
 vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?security=none&encryption=none&headerType=none&type=tcp#🇸🇬
 vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&sid=b2efed6d157e7bb0&sni=gateway.icloud.com#@DeltaKroneckerGithub

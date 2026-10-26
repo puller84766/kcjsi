@@ -1,0 +1,1 @@
+vless://3acb3c2b-680c-40a5-ac19-9eef6b061efa@gonci.zaebalsanoproxyklinus.lol:20285?encryption=none&flow=xtls-rprx-vision&security=reality&sni=metrika.yandex.ru&fp=chrome&pbk=snNVYSFAGMHIRMnzBZoFFTcu6KowqSFLSyRgmI9NSRU&sid=5308d9ab&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20SAR%20China%20-%20Tsuen%20Wan%20%7C%20gonci.zaebalsanoproxyklinus.lol%3A20285

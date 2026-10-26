@@ -1,1 +1,0 @@
-vless://e3026ffb-cde6-4cfe-b4b7-f76d5264e969@152.237.230.30:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=9Wh7M-tz9D_1WBaQhz2wIJian960Ffcx66NH8HAidDI&sid=61a0eb582ed4f2b5&type=tcp&headerType=none#@DeltaKroneckerGithub
