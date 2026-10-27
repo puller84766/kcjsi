@@ -1,3 +1,5 @@
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&encryption=none&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=bb82c8#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20SAR%20China%20-%20Hong%20Kong%20%7C%20154.21.203.106%3A51279%205
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?type=tcp&security=reality&sni=www.tesla.com&fp=random&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20SAR%20China%20-%20Hong%20Kong%20%7C%20154.21.203.106%3A51279%2011
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?security=reality&encryption=none&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&sid=a46bb5972cf50671#@vmesskhodam
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20vless-%20%2335
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇻🇳

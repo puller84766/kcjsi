@@ -18,3 +18,5 @@ vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?fp=random&host=
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?fp=random&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo&security=reality&sid=429499c03d4cc8a0&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Seoul%20%7C%20151.245.106.49%3A2053%2013
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#🇰🇷
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?type=tcp&security=reality&fp=firefox&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo&sid=429499c03d4cc8a0&sni=www.cloudflare.com#@DeltaKroneckerGithub
+vless://bd2fb303-b4c7-49af-a8e3-5c6f11b005dd@112.169.175.199:31157?security=none&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Dogok-dong%20%7C%20%5BBL%5D
+vless://bd2fb303-b4c7-49af-a8e3-5c6f11b005dd@112.169.175.199:31157?type=raw#0233%20|%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
