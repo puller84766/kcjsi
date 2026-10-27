@@ -1,2 +1,0 @@
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?type=raw&security=tls&fp=firefox&sni=mx001.zestapp778.com#0003%20|%20%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?security=tls&fp=firefox&sni=mx001.zestapp778.com#1829%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
