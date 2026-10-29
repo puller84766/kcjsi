@@ -1,0 +1,5 @@
+vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=www.slovarik.xyz&type=tcp&headerType=none&fp=chrome#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Arinj%20%7C%20%5BBL%5D
+vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=www.slovarik.xyz&type=tcp&headerType=none&fp=firefox#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Arinj%20%7C%20%5BBL%5D
+vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=www.slovarik.xyz&type=tcp&headerType=none&fp=ios#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Arinj%20%7C%20%5BBL%5D
+vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=www.slovarik.xyz&type=tcp&headerType=none&fp=qq#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Arinj%20%7C%20%5BBL%5D
+vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=www.slovarik.xyz&type=tcp&headerType=none&fp=safari#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Arinj%20%7C%20%5BBL%5D
