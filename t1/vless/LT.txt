@@ -1,0 +1,3 @@
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@130.78.190.21:443?type=grpc&security=tls&fp=qq&sni=a.es-2.bnc-gt.co.uk&serviceName=grpc#0026%20|%20%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@130.78.190.21:443?type=grpc&security=tls&sni=a.es-2.bnc-gt.co.uk&serviceName=grpc&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@130.78.190.21:443?type=grpc&security=tls&sni=a.es-2.bnc-gt.co.uk&serviceName=grpc&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
