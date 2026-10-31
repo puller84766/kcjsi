@@ -1,3 +1,4 @@
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%7C%20152.69.200.216%3A443%207
-vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#Telegram:@v2rayng3
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#@DeltaKroneckerGithub
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20vless-%20%2314
 vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%20141.11.139.215%3A443
