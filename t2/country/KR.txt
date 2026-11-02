@@ -1,1 +1,1 @@
-vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?type=tcp&security=reality&fp=firefox&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo&sid=429499c03d4cc8a0&sni=www.cloudflare.com#@DeltaKroneckerGithub
+vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&sid=3c4041d3&sni=gateway.icloud.com&host=gateway.icloud.com#0346%20|%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
