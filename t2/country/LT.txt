@@ -1,0 +1,1 @@
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?type=raw&flow=xtls-rprx-vision&sni=admin.betust.net&fp=firefox&security=reality&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406#%F0%9F%87%A7%F0%9F%87%AA%20AetrisVPN
