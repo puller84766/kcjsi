@@ -1,0 +1,1 @@
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?sni=jagamsrxd6.j.cloudfront.hls.vodcdn-edge.net&type=grpc&serviceName=sync.v1&fp=safari&security=tls#%F0%9F%87%A6%F0%9F%87%BF%20AZ_23
