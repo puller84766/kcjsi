@@ -1,1 +1,2 @@
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-2-y.473221.xyz:33161?type=raw&security=reality&pbk=9WulHOrPZIMdOVwTo-9Z2puTD8GNlt6ctR3hpemHgxc&sid=e5086b3dc5&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&fp=edge#@DeltaKroneckerGithub
+vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@146.235.59.153:2053?security=tls&sni=shin-ra.ccwu.cc&fp=firefox&type=ws&host=shin-ra.ccwu.cc&path=%2F#tls-ws_4098

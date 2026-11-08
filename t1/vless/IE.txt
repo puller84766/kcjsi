@@ -1,1 +1,0 @@
-vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&sni=360.yandex.ru#2434%20|%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20|%20%F0%9F%8F%B3%EF%B8%8F%20SNI-Yandex%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
