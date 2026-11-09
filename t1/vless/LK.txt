@@ -1,0 +1,2 @@
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?type=ws&security=tls&fp=firefox&sni=pcloud.z-tas.com&host=pcloud.z-tas.com#0589%20|%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&host=pcloud.z-tas.com&fp=chrome&type=ws&sni=pcloud.z-tas.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-2427
