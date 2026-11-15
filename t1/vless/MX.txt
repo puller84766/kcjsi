@@ -1,0 +1,2 @@
+vless://5ebb4b41-7908-4d83-904b-8a941ea149e9@179.255.125.140:443?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=ReJYDmhM_L7Y-MzRirsSfUF5ohG-uY9qXGvp6T-ySHs&sid=82bea5d7#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Mexico%20City%20%7C%20%5BBL%5D
+vless://68f014b7-e245-4528-890e-289f91d7c968@179.255.125.140:443?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=ReJYDmhM_L7Y-MzRirsSfUF5ohG-uY9qXGvp6T-ySHs&sid=82bea5d7#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Mexico%20City%20%7C%20%5BBL%5D

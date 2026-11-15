@@ -1,1 +1,0 @@
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.80:443?flow=xtls-rprx-vision&security=reality&sni=cedar-tide.cdn.cachefleet.com&fp=firefox&pbk=sp_KKjJjc7cyVd8jkaPNfRtB9UxyZT6CfF62uYqcMlI&sid=69828f96b0fcc801#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN

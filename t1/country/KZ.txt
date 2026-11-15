@@ -1,5 +1,7 @@
 vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#12428@proxy_online_net
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.45:443?security=reality&encryption=none&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maple-cove.cdn.cachefleet.com#Channel
+vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?security=tls&type=ws&path=/vless/&packetEncoding=xudp&sni=3h-kazakhstan1.09vpn.com&fp=chrome#🇰🇿
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@165.231.177.59:443?security=tls&sni=cab-6af74a4f.ferrin.uk&type=xhttp&host=ice.noooo.win&path=%2F&mode=stream-one&extra=%7B&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Astana%20%7C%20%5BBL%5D
+vless://97fd7807-7e2b-49da-8a0e-e40197088f97@165.231.177.59:443?type=xhttp&security=tls&fp=chrome&sni=cab-6af74a4f.ferrin.uk&host=ice.noooo.win&mode=stream-one#0897%20|%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83#@DeltaKroneckerGithub
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&type=tcp&sni=yahoo.com&sid=83#11306@proxy_online_net

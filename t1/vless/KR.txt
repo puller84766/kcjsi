@@ -1,6 +1,4 @@
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&headerType=none&path=/#🇰🇷
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?sni=152.69.226.63&type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&path=/#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.80:443?flow=xtls-rprx-vision&security=reality&sni=cedar-tide.cdn.cachefleet.com&fp=firefox&pbk=sp_KKjJjc7cyVd8jkaPNfRtB9UxyZT6CfF62uYqcMlI&sid=69828f96b0fcc801#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.80:443?security=reality&encryption=none&pbk=sp_KKjJjc7cyVd8jkaPNfRtB9UxyZT6CfF62uYqcMlI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cedar-tide.cdn.cachefleet.com&sid=69828f96b0fcc801#Tel-@ProxyMtAlpha🥑
 vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#🇰🇷
