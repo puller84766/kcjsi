@@ -1,1 +1,2 @@
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#%F0%9F%87%BB%F0%9F%87%B3%5Bwww.v2nodes.com%5D%20vless-VN-1...
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:42120?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&sni=www.tesla.com#1367%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:42120?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&sni=www.tesla.com#0868%20|%20%F0%9F%8C%90%20Unknown%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu

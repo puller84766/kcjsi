@@ -1,7 +1,1 @@
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@203.146.170.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4LwH3FEPZZqjen5iuUlRqV4Buatjv8DxL3KUvE1ULWs&security=reality&sid=faaf02e8469f34&sni=th1.gofizzin.com&type=tcp#@DeltaKroneckerGithub
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@52.84.199.15:80?type=ws&host=dcm4kwis2exkw.cloudfront.net#0745%20|%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@99.86.77.123:80?type=ws&host=dcm4kwis2exkw.cloudfront.net#1493%20|%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@99.86.77.123:80?type=ws&sni=dcm4kwis2exkw.cloudfront.net&host=dcm4kwis2exkw.cloudfront.net&packetEncoding=none#1343%20|%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@99.86.77.43:80?type=ws&host=dcm4kwis2exkw.cloudfront.net#1926%20|%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=%2F#%F0%9F%87%B9%F0%9F%87%AD[openproxylist.com]%20vless-TH
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#%F0%9F%87%B9%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-TH-1...

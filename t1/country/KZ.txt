@@ -1,5 +1,4 @@
 vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#12428@proxy_online_net
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?security=tls&type=ws&path=/vless/&packetEncoding=xudp&sni=3h-kazakhstan1.09vpn.com&fp=chrome#🇰🇿
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.60:443?type=raw&security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=api-rt-cfg.galioncc.com#1062%20|%20%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83#@DeltaKroneckerGithub
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿
