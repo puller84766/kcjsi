@@ -1,3 +1,0 @@
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.249.91.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xE5R41I9u0Ro2Ru4TUDVqA0a1GRyS5K6zh1DJcJLEUw&security=reality&sid=4af284210d&sni=my1.gofizz.in&type=tcp#@DeltaKroneckerGithub
-vless://d801d4d9-111a-46e8-91fc-e2fb39ef2d22@382218.xyz:443?&security=tls&fp=chrome&sni=382218.xyz&type=ws&headerType=none&host=382218.xyz&path=%2Fws#%F0%9F%87%B2%F0%9F%87%BE%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20%7C%20MYS
-vless://d801d4d9-111a-46e8-91fc-e2fb39ef2d22@382218.xyz:443?type=ws&security=tls&sni=382218.xyz&path=%2Fws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D
