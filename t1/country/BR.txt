@@ -1,1 +1,0 @@
-vless://e1b0016b-7f19-47fd-8b36-c471cf91012f@147.45.116.64:8443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=tm1f7W3RTgSx1F6NsoE32TborUxVe1udZQr4LhDAIio&sid=6d5496b5539e2ee4&sni=77.88.8.8#2514%20|%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
