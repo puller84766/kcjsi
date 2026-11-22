@@ -1,5 +1,4 @@
-vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?encryption=none&security=none&type=tcp#🔵41@oneclickvpnkeys
-vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?security=none&encryption=none&headerType=none&type=tcp#@Net2ray
+vless://621fe149-d083-45aa-b71b-bfe0e3afbc57@v2new.nimbaha9.ir:8080?host=v2new.nimbaha9.ir&path=%2FXDS45&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7223687%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://d81db550-4787-467e-b98a-579ee9d41999@84.23.52.104:9125?fp=firefox&mode=gun&pbk=4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=www.cloudflare.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20347%20-%20RU%20-%20VLESS/GRPC/REALITY/PBK/SID/UTLS%20-%209125
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&security=reality&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30#@DeltaKroneckerGithub
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&type=tcp&headerType=none#🏳️
