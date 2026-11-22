@@ -1,0 +1,2 @@
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=skvoz-dpi.com&fp=firefox&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&spx=/HesarWeb#@DeltaKroneckerGithub
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=skvoz-dpi.com&sid=93ae75024604f796#@V2ray_confiig
