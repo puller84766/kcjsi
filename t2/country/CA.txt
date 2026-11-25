@@ -1,2 +1,1 @@
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?security=tls&type=tcp&sni=kuruish.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Montreal%20%7C%2066.163.113.9%3A443%2013
-vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.177:2093?security=reality&type=tcp&sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20-%20Unknown%20%7C%20185.71.216.177%3A2093%202

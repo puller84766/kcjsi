@@ -1,1 +1,0 @@
-vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@185.86.147.175:443?type=raw&security=reality&sni=typewriter.mail.ru&fp=firefox&flow=xtls-rprx-vision&pbk=8AMTGPbrxsJjdXnKnF9Q_FTBE0tQHG-nfE1CeqN7GRs&sid=17aa0cd6#RU%20%20%20VLESS-TCP-RLT%20-%20LLC%20VK%20%20185.86.147.175
