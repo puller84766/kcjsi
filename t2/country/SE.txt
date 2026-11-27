@@ -1,4 +1,3 @@
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@104.18.44.185:443?encryption=none&security=tls&sni=accessfooter.cleanfoodshop.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F&host=accessfooter.cleanfoodshop.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 vless://7aa77858-f235-44d6-9434-7ab060848b17@92.63.189.39:8443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=avelon.onl#1463%20|%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&type=tcp&sni=cdnjs.com&flow=xtls-rprx-vision&fp=qq&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%7C%20swe1.baterium.space%3A443%2014
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%233

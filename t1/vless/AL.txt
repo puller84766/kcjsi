@@ -1,6 +1,1 @@
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443/?type=ws&encryption=none&flow=&path=/media/ws/&security=tls&sni=nl.lucheeebezlimitnoekino.stream#@V2rayNPVTConfig
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=nl.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Labinot-Fush%C3%AB%20%7C%20%5BBL%5D
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443?encryption=none&path=/media/ws/&security=tls&sni=nl.lucheeebezlimitnoekino.stream&type=ws#🈸12@oneclickvpnkeys
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443?path=/media/ws/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=nl.lucheeebezlimitnoekino.stream#@ICV2RAY
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@leviko-al8733.shopingggg.ir:443/?type=ws&encryption=none&flow=&path=/media/ws/&security=tls&sni=nl.lucheeebezlimitnoekino.stream#@V2rayNPVTConfig
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@leviko-al8733.shopingggg.ir:443?encryption=none&path=/media/ws/&security=tls&sni=nl.lucheeebezlimitnoekino.stream&type=ws#@meliproxyy
