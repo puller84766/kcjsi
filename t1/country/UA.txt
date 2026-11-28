@@ -1,1 +1,0 @@
-vless://50414e45-4c5f-5a45-5553-647c99716a54@1pzep5e9up1s.b7zk1gewun8s.workers.dev:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F647c99716a54%2Floc-0&host=1pzep5e9up1s.b7zk1gewun8s.workers.dev&packetEncoding=xudp&sni=1pzep5e9up1s.b7zk1gewun8s.workers.dev&fp=unsafe#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C578KB%2Fs%7CM003-260806

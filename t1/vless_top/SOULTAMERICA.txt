@@ -1,0 +1,1 @@
+vless://504b7143-71e0-4cf0-909b-5ff271bd03d6@172.233.27.145:64552?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&sid=1f2519bb96e5589c&sni=www.cloudflare.com#0069%20|%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu

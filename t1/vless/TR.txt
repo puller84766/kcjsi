@@ -1,0 +1,1 @@
+vless://1bc72df2-f188-4bd1-8c9f-395dbb5f5cf7@178.177.17.206:8446?security=tls&alpn=h2&type=raw&fp=safari#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20|%20[*CIDR]
