@@ -1,1 +1,2 @@
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?security=tls&type=tcp&sni=kuruish.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Montreal%20%7C%2066.163.113.9%3A443%2013
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?encryption=none&security=tls&type=tcp&headerType=none#🇨🇦
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#🔷68@oneclickvpnkeys

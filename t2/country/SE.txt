@@ -1,4 +1,4 @@
-vless://7aa77858-f235-44d6-9434-7ab060848b17@92.63.189.39:8443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=avelon.onl#1463%20|%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20|%20VLESS%20|%20TG:%20@YoutubeUnBlockRu
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&type=tcp&sni=cdnjs.com&flow=xtls-rprx-vision&fp=qq&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%7C%20swe1.baterium.space%3A443%2014
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#%F0%9F%87%B8%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-SE-1...%20%233
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?security=tls&type=grpc&sni=138-124-86-230.sslip.io&serviceName=138-124-86-230-sslip-io#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Unknown%20%7C%20138.124.86.230%3A48115%2010
+vless://ecc0e60a-f2cc-4266-8353-b228df89730a@150.241.87.52:443?security=reality&encryption=none&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.galacticworld.online#@ICV2RAY
